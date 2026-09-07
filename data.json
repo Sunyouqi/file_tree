@@ -1,0 +1,265 @@
+[
+  {
+    "text": "Projects",
+    "class": "folder",
+    "isEdit": false,
+    "draggable": false,
+    "droppable": false,
+    "children": [
+      {
+        "text": "Frontend",
+        "class": "folder",
+        "isEdit": false,
+        "draggable": false,
+        "droppable": false,
+        "children": [
+          {
+            "text": "Vue",
+            "class": "folder",
+            "isEdit": false,
+            "draggable": false,
+            "droppable": false,
+            "children": [
+              {
+                "text": "Nuxt",
+                "isEdit": false,
+                "class": "file",
+                "draggable": false,
+                "droppable": false
+              }
+            ]
+          },
+          {
+            "text": "React",
+            "class": "folder",
+            "isEdit": false,
+            "draggable": false,
+            "droppable": false,
+            "children": [
+              {
+                "text": "Next",
+                "isEdit": false,
+                "class": "file",
+                "draggable": false,
+                "droppable": false
+              }
+            ]
+          },
+          {
+            "text": "Angular",
+            "isEdit": false,
+            "class": "file",
+            "draggable": false,
+            "droppable": false
+          }
+        ]
+      },
+      {
+        "text": "Backend",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      }
+    ]
+  },
+  {
+    "text": "Videos",
+    "class": "folder",
+    "isEdit": false,
+    "draggable": false,
+    "droppable": false,
+    "children": [
+      {
+        "text": "Movie",
+        "class": "folder",
+        "isEdit": false,
+        "draggable": false,
+        "droppable": false,
+        "children": [
+          {
+            "text": "The Godfather",
+            "isEdit": false,
+            "class": "file",
+            "draggable": false,
+            "droppable": false
+          },
+          {
+            "text": "La Dolce Vita",
+            "isEdit": false,
+            "class": "file",
+            "draggable": false,
+            "droppable": false
+          },
+          {
+            "text": "In the Mood for Love",
+            "isEdit": false,
+            "class": "file",
+            "draggable": false,
+            "droppable": false
+          }
+        ]
+      },
+      {
+        "text": "AD",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "Shorts",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      }
+    ]
+  },
+  {
+    "text": "Photos",
+    "class": "folder",
+    "isEdit": false,
+    "draggable": false,
+    "droppable": false,
+    "children": [
+      {
+        "text": "Animals",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "Buildings",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "Sky",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "Sea",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      }
+    ]
+  },
+  {
+    "text": "Music",
+    "isEdit": false,
+    "class": "folder",
+    "draggable": false,
+    "droppable": false,
+    "children": [
+      {
+        "text": "My Happy Melodies.",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "Hello Summer.",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "An Overture To Happiness.",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "Sunny Days.",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "Every One Need Adventure.",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "Happy, Chill Radio.",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "I Found My Way.",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "Early, Early Morning.",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      }
+    ]
+  },
+  {
+    "text": "Games",
+    "isEdit": false,
+    "class": "folder",
+    "draggable": false,
+    "droppable": false,
+    "children": [
+      {
+        "text": "swimming",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "cycling",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "tennis",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      },
+      {
+        "text": "boxing",
+        "isEdit": false,
+        "class": "file",
+        "draggable": false,
+        "droppable": false
+      }
+    ]
+  },
+  {
+    "text": "Download",
+    "isEdit": false,
+    "class": "folder",
+    "draggable": false,
+    "droppable": false
+  }
+]
